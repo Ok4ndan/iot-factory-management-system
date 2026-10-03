@@ -77,10 +77,15 @@ sürecinde README dosyasına eklenecektir.
 - GitHub
 
 ## 📁 Proje Yapısı
+
+```text
 iot-factory-management-system/
 │
-├── backend/
-├── frontend/
-├── database/
+├── backend/        # Python backend
+├── frontend/       # Web arayüzü
+├── database/       # SQL Server dosyaları
+├── docs/           # Proje dokümantasyonu
+│
 ├── .gitignore
 └── README.md
+```
