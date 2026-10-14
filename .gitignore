@@ -33,3 +33,19 @@ htmlcov/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+
+
+# Dataset files
+data/raw/
+data/processed/
+*.xlsx
+*.csv
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment secrets
+.env.*
+!.env.example
