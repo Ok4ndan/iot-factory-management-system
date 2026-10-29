@@ -43,14 +43,11 @@ Planlanan tablolar:
 - Factories
 - Production Lines
 - Machines
-- Machine Types
 - Sensors
 - Sensor Types
 - Measurements
 - Maintenance Records
-- Maintenance Types
 - Alerts
-- Users
 
 ## 📊 Gerçek Veri
 
