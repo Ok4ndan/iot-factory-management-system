@@ -10,6 +10,8 @@ env/
 
 # Environment Variables
 .env
+.env.*
+!.env.example
 
 # VS Code
 .vscode/
@@ -25,6 +27,11 @@ desktop.ini
 # Database / Local files
 *.bak
 *.tmp
+*.db
+*.sqlite
+*.sqlite3
+*.mdf
+*.ldf
 
 # Python testing / coverage
 .pytest_cache/
@@ -36,6 +43,7 @@ htmlcov/
 
 
 # Dataset files
+data/
 data/raw/
 data/processed/
 *.xlsx
